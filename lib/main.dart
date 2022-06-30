@@ -14,7 +14,7 @@ class App2 extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My First App'),
+          title: Text('My First App!'),
         ),
         body: Column(
           children: [
